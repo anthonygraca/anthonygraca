@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I am a Software Developer based in Southern California with a Bachelor's
-Degree in Computer Science with a Minor in Mathematics. </br>
-👨‍💻 I am currently obsessed with software development processes and I
-love learning about ways to make code bases more reliable, scalable, and
+in Computer Science with a Minor in Mathematics. </br>   
+👨‍💻 I love learning about how to make code reliable, scalable, and
 maintainable. </br>
 
 ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthonygraca&show_icons=true&hide_border=true)&nbsp;&nbsp;
