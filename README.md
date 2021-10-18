@@ -1,4 +1,4 @@
-## Hello world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anthony Graca!](https://anthonygraca.io) 
+## Hello world, I'm [Anthony Graca!](https://anthonygraca.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **anthonygraca/anthonygraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://anthonygraca.io">
+  <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
+</a>
 <a href="https://www.linkedin.com/in/anthonygraca/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -28,7 +31,8 @@ Here are some ideas to get you started:
 🌱 I am a Software Developer based in Southern California with a Bachelor's
 in Computer Science with a Minor in Mathematics. </br>   
 👨‍💻 I love learning about how to make code reliable, scalable, and
-maintainable. </br>
+maintainable. I believe that with a permissible team culture, legacy code can be
+made beautiful. </br>
 
 ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthonygraca&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Anthony's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthonygraca&layout=compact&langs_count=8&hide_border=true)
