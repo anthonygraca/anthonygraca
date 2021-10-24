@@ -1,4 +1,4 @@
-## Hello world, I'm [Anthony Graca!](https://anthonygraca.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello world, I'm Anthony Graca!
 
 <!--
 **anthonygraca/anthonygraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +28,14 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I am a Software Developer based in Southern California with a Bachelor's
-in Computer Science with a Minor in Mathematics. </br>   
-👨‍💻 I love learning about how to make code reliable, scalable, and
-maintainable. I believe that with a permissible team culture, legacy code can be
-made beautiful. </br>
+- 🌱 I am a Software Developer based in Southern California with a Bachelor's in Computer Science with a Minor in Mathematics. </br>   
+- 👨‍💻 I love learning about how to make code reliable, scalable, and maintainable. 
+- 👯 I believe that with a permissible team culture, legacy code can be made beautiful. </br>
+- 💬 My favorite tech quote is from Edsger W. Dijkstra when he wrote "Simplicity is a prerequisite for reliability"
+- 🤔 I’m currently looking for help on developing and growing my [tech meetup](https://www.meetup.com/ucsd-cracking-the-coding-interview/).
+   * Experienced Professionals - I would highly appreciate you sharing your experience and how you got to where you are now.
+   * People New To Tech - I would love your thoughts on how people like me could help you and what you would like to see.
+
 
 ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthonygraca&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Anthony's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthonygraca&layout=compact&langs_count=8&hide_border=true)
