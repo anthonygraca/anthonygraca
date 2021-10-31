@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - 👯 I believe that with a permissible team culture, legacy code can be made beautiful. </br>
 - 💬 My favorite tech quote is from Edsger W. Dijkstra when he wrote "Simplicity is a prerequisite for reliability"
 - 🤔 I’m currently looking for help on developing and growing my [tech meetup](https://www.meetup.com/ucsd-cracking-the-coding-interview/).
-   * Experienced Professionals - I would highly appreciate you sharing your experience and how you got to where you are now.
-   * People New To Tech - I would love your thoughts on how people like me could help you and what you would like to see.
+   * Experienced Professionals - I would highly appreciate you sharing your experience and how you got to where you are.
+   * People New To Tech - I would love your thoughts on how y'all would like us devs to help you.
 
 
 ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthonygraca&show_icons=true&hide_border=true)&nbsp;&nbsp;
