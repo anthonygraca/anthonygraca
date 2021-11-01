@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-- 🌱 I am a Software Developer based in Southern California with a Bachelor's in Computer Science with a Minor in Mathematics. </br>   
+- 🌱 I am a Software Developer based in Southern California with a Bachelor's in Computer Science with a Minor in Math. </br>   
 - 👨‍💻 I love learning about how to make code reliable, scalable, and maintainable. 
 - 👯 I believe that with a permissible team culture, legacy code can be made beautiful. </br>
 - 💬 My favorite tech quote is from Edsger W. Dijkstra when he wrote "Simplicity is a prerequisite for reliability"
