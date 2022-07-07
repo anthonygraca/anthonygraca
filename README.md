@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://anthonygraca.io">
-  <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anthonygraca/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
