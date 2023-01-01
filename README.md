@@ -37,7 +37,6 @@ Here are some ideas to get you started:
    * People New To Tech - I would love your thoughts on how y'all would like us devs to help you.
 
 
-![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthonygraca&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Anthony's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthonygraca&layout=compact&langs_count=8&hide_border=true)
 <br />
 
